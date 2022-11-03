@@ -1,5 +1,5 @@
 {
   "name": "npm-test",
-  "version": "0.13",
+  "version": "0.13.2",
   "repository":"ssh+git@github.com:QcFe/npm-test.git"
 }
